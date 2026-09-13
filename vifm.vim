@@ -262,3 +262,4 @@ source ~/.config/vifm/vim/maps.vim
 " ------------------------------------------------------------------------------
 
 " https://github.com/cirala/vifm_devicons
+source ~/.config/vifm/vifm_devicons/favicons.vifm
