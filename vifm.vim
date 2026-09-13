@@ -28,7 +28,7 @@
 " ------------------------------------------------------------------------------
 " Main settings
 " ------------------------------------------------------------------------------
-
+"
 " Command used to edit files in various contexts.  The default is vim.
 " If you would like to use another vi clone such as Elvis or Vile
 " you will need to change this setting.
@@ -138,7 +138,7 @@ endif
 set grepprg="grep -n -H -I -r -s %i %a %s"
 
 " List of color schemes to try (picks the first one supported by the terminal)
-colorscheme Default-256 Default
+colorscheme gruvbox Default
 
 " ------------------------------------------------------------------------------
 " Bookmarks
