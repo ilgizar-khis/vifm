@@ -1,5 +1,4 @@
-
-" vim: filetype=vifm :
+" vim: filetype=vim :
 "
 " Sample configuration file for vifm (last updated: 11 February 2026)
 "
